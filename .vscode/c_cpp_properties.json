@@ -1,0 +1,19 @@
+{
+    "name": "Win32",
+    "includePath": [
+        "${workspaceFolder}"
+    ],
+    "defines": [
+        "_DEBUG",
+        "UNICODE"
+    ],
+    "compilerPath": "C:\\mingw\\bin\\gcc.exe",
+    "intelliSenseMode": "clang",
+    "browse": {
+        "path": [
+            "${workspaceFolder}"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+    }
+}
