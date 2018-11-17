@@ -9,7 +9,7 @@
             "command": "gcc",
             "args": [
                 "-o",
-                "1.exe",
+                "${fileBasenameNoExtension}.exe",
                 "${file}",
             ]
         }
