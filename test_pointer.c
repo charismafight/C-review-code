@@ -41,6 +41,8 @@ void swap(int *p1,int *p2)
 {
   int temp;
   
+
+  //比较重要的，temp赋值为指向p1的数值，不能是p1（地址）
   temp = *p1;
   *p1 = *p2;
   *p2 = temp;
